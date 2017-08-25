@@ -1,0 +1,20 @@
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\bin\Debug\Money.exe.config
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\bin\Debug\Money.exe
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\bin\Debug\Money.pdb
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\obj\Debug\Money.BudgetForm.resources
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\obj\Debug\Money.Properties.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\obj\Debug\Money.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\obj\Debug\Money.exe
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\obj\Debug\Money.pdb
+C:\Users\Jake\Documents\Visual Studio 2017\Projects\Money\Money\obj\Debug\Money.AddBillForm.resources
+C:\Programming\CSharpProjects\Money\Money\bin\Debug\Money.exe.config
+C:\Programming\CSharpProjects\Money\Money\bin\Debug\Money.exe
+C:\Programming\CSharpProjects\Money\Money\bin\Debug\Money.pdb
+C:\Programming\CSharpProjects\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Programming\CSharpProjects\Money\Money\obj\Debug\Money.AddBillForm.resources
+C:\Programming\CSharpProjects\Money\Money\obj\Debug\Money.BudgetForm.resources
+C:\Programming\CSharpProjects\Money\Money\obj\Debug\Money.Properties.Resources.resources
+C:\Programming\CSharpProjects\Money\Money\obj\Debug\Money.csproj.GenerateResource.Cache
+C:\Programming\CSharpProjects\Money\Money\obj\Debug\Money.exe
+C:\Programming\CSharpProjects\Money\Money\obj\Debug\Money.pdb
