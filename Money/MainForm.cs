@@ -20,13 +20,8 @@ namespace Money
 
         private void addBillBTN_Click(object sender, EventArgs e)
         {
-            var addBill = new AddBillForm();
+            var addBill = new AddBillForm(billGroupView);
             addBill.ShowDialog();
-
-            ListViewItem listItem = new ListViewItem(addBill.Bill);
-            listItem.SubItems.Add(addBill.Amount.ToString());
-            listItem.SubItems.Add(addBill.DueDate.ToString());
-            billGroupView.Items.Add(listItem);
         }
 
         private void removeBTN_Click(object sender, EventArgs e)
